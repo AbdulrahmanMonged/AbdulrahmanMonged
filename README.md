@@ -38,7 +38,7 @@ Here’s a snapshot of my tech passions:
 - [CustomTkinter GUI App](https://github.com/AbdulrahmanMonged/…) — (Under development) Multi-page GUI for account management with Arabic support.  
 
 ## 🚀 Get In Touch  
-- 📧 You can reach me at: **[your email here]** (optional)  
+- 📧 You can reach me at: **abdoomonged231@gmail.com**
 - 🖐️ Feel free to connect with me on GitHub: [@AbdulrahmanMonged](https://github.com/AbdulrahmanMonged)  
 - 💬 I’m open to collaboration, mentoring, and interesting technical challenges in the backend / full-stack space.  
 
