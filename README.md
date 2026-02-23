@@ -2,13 +2,16 @@
 
 **Backend Engineer** — FastAPI · Flask · Redis · Socket.IO · PostgreSQL
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdulrahman--monged.com-000000?style=flat-square&logo=About.me&logoColor=white)](https://abdulrahman-monged.com/)
+[![CV](https://img.shields.io/badge/CV-Download-0077B5?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://abdulrahman-monged.com/cv.pdf)
+[![Email](https://img.shields.io/badge/Email-abdoomonged231@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdoomonged231@gmail.com)
+
 ---
 
 ## About
 
 I build scalable backend systems and real-time applications with modern Python frameworks. Currently focused on distributed systems, async architecture, and production-grade API design.
 
-- Email: abdoomonged231@gmail.com
 - Solving algorithmic problems on LeetCode in spare time
 
 ---
